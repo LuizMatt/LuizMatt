@@ -1,12 +1,36 @@
-### Olá! Meu nome é Luiz Matheus 👋
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizmatheuslins/)
+# 👋 Olá, eu sou o Luiz Matheus
 
-![LuizMatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizMatt&show_icons=true&theme=tokyonight)
+Sou **Desenvolvedor Full Stack**, com foco em **backend (Node.js / TypeScript / PHP)** e experiência na criação de **aplicações web completas**, do design ao deploy.  
+Atualmente, trabalho em projetos que unem **boas práticas**, **arquitetura limpa** e **tecnologias modernas**.
 
-## Tecnologias utilizadas no dia a dia
+---
 
-- Java
-- HTML
-- Spring Framework
-- CSS
+### 🚀 Tecnologias que uso no dia a dia
+💻 **Backend:** Node.js · Express · TypeScript · Sequelize · Laravel  
+🖥️ **Frontend:** React · Vue.js · Vite  
+🛢️ **Banco de Dados:** PostgreSQL · MySQL  
+⚙️ **Infra & DevOps:** Docker · Caddy · Hostinger VPS  
+🎨 **UI/UX:** Figma · Styled Components · TailwindCSS
 
+---
+
+### 📌 Projetos em destaque
+- 🛍️ [Anima Brindes](https://github.com/LuizMatt/anima-brindes): e-commerce de brindes corporativos  
+- 🃏 [PixMilhas](https://github.com/LuizMatt/pix-milhas): sistema de recompensas para afiliados  
+
+---
+
+### 🌱 Atualmente estudando
+- **Vue 3** (Composition API e boas práticas)  
+- **Arquitetura de Software** com foco em escalabilidade  
+- **React Native** para apps mobile
+
+---
+
+### 📫 Como me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/luiz-lins-13a850324/)  
+- 📧 **luizmatheuslins55@gmail.com**
+
+---
+
+> _“Você é o que você pratica.”_
