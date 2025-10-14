@@ -15,7 +15,6 @@ Atualmente, trabalho em projetos que unem **boas práticas**, **arquitetura limp
 ---
 
 ### 📌 Projetos em destaque
-- 🛍️ [Anima Brindes](https://github.com/LuizMatt/anima-brindes): e-commerce de brindes corporativos  
 - 🃏 [PixMilhas](https://github.com/LuizMatt/pix-milhas): sistema de recompensas para afiliados  
 
 ---
