@@ -15,7 +15,10 @@ Atualmente, trabalho em projetos que unem **boas práticas**, **arquitetura limp
 ---
 
 ### 📌 Projetos em destaque
-- 🃏 [PixMilhas](https://github.com/LuizMatt/pix-milhas): sistema de recompensas para afiliados  
+
+- 🃏 [PixMilhas](https://github.com/LuizMatt/pix-milhas) — sistema de recompensas para afiliados do PixPoker  
+- 🎁 [Anima Brindes](https://github.com/LuizMatt/anima-brindes-frontend) — e-commerce moderno em React + Vite para brindes personalizados
+
 
 ---
 
