@@ -25,7 +25,6 @@ Atualmente, trabalho em projetos que unem **boas práticas**, **arquitetura limp
 ### 🌱 Atualmente estudando
 - **Vue 3** (Composition API e boas práticas)  
 - **Arquitetura de Software** com foco em escalabilidade  
-- **React Native** para apps mobile
 
 ---
 
